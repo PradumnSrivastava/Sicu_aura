@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![Sign up page of Hospital (1)](https://github.com/PradumnSrivastava/Sicu_aura/assets/131151467/b814bd7b-a69f-414c-9bc8-bdabeac56600)
+![Login page of Hospital](https://github.com/PradumnSrivastava/Sicu_aura/assets/131151467/4523d922-78ee-48b7-b6de-b86e6e3dbb47)
+![Capture Photo](https://github.com/PradumnSrivastava/Sicu_aura/assets/131151467/11882cb4-1e58-4720-920b-e0c00629ea9e)
+![Hospital Registration](https://github.com/PradumnSrivastava/Sicu_aura/assets/131151467/2f3e67ba-c2a7-405e-a34a-3920d73a6269)
+
+
